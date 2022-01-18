@@ -1,5 +1,5 @@
 
-## Test cases examples
+## Sample test cases for common user flows in Web and Mobile Apps
 
 | ID | Priority | Title | Description | Pre-conditions | Steps | Expected Result | Comments | Status | Test cases execution |
 | --- | --- | --- | --- | --- | --- | ----- | ----- | ------ | --- |
